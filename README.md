@@ -35,10 +35,10 @@ Download and unpack the repository.
  
    * X_res, Y_res : lateral voxel size of the input (in um, determined by the magnification and the camera sensor patch size).
  
-  	* Z_res : axial voxel size of the input (in um, usually is half of the light-sheet thickness).
+   * Z_res : axial voxel size of the input (in um, usually is half of the light-sheet thickness).
  
    * X_factor, Y_factor, Z_factor : resolution enhancement factors.
  
-	  * PSF_X, PSF_Y : size of the PSF (in pixels).
+   * PSF_X, PSF_Y : size of the PSF (in pixels).
 	 
 4. Double click run.bat. The "Deconvxx.tif" under the output diretory is the final result.
