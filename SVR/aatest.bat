@@ -1,0 +1,3 @@
+@PSRip.exe testfunc
+@pause
+;

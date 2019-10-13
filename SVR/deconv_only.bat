@@ -1,0 +1,3 @@
+@PSRip.exe deconv
+@pause
+;
