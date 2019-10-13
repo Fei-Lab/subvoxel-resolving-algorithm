@@ -15,10 +15,9 @@ Download and unpack the repository.
 
 1. Unpack the example data /subvoxel-resolving-algorithm/test data/raw.zip in place.
 
-2. Open profile.ini, set “INPUT0” to the example data path.Note: 
-
+2. Open profile.ini, set “INPUT0” to the example data path.
+   Note: 
    * The images should be sequential tif images with the same prefix pattern.
-
    * The width and height of each image should be the same and integer multiples of 128 px.
 	
 3. Edit and save commom.ini. The options are as follow:
